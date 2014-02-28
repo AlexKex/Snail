@@ -1,0 +1,7 @@
+body { min-width: 900px; }
+#snail td { padding: 2px; vertical-align: center; text-align: center; min-width: 25px; }
+#snail-intro { float: left; width: 250px; border: 1px solid #a3a3a3; padding: 10px; border-radius: 25px 25px 0 25px; margin-right: 10px; }
+#snail-intro-img { margin-top: 125px; float: left; width: 200px; }
+#snail-intro-img img { width: inherit; float: left; }
+[name=submit] { cursor: pointer; }
+.small { margin-top: -10px; font-size: 0.8em; }
